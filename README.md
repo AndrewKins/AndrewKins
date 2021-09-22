@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewKins
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning HTML/CSS JavaScript
+- 👀 I’m a Marcy Lab Software Engineering Fellow
+- 🌱 I’m currently learning Alot of Stuff......
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 @AndrewKins_ Twitter
