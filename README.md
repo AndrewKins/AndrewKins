@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewKins
 - 👀 I’m a Marcy Lab Software Engineering Fellow
-- 🌱 I’m currently learning Alot of Stuff......
+- 🌱 I’m currently HTML/CSS Javascript & More......
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 @AndrewKins_ Twitter
