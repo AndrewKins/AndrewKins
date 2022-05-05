@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AndrewKins
 - 👀 I’m a Marcy Lab Software Engineering Fellow
-- 🌱 I’m currently HTML/CSS Javascript & More......
+- 🌱 I’m currently learning React......
+- Tech Stack Includes( HTML/CSS/JavaScript/Node.Js/Express.JS/
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
 @AndrewKins_ Twitter
