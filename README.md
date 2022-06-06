@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Andrew Enoe
 - 👀 I'm a Marcy Lab Software Engineering Fellow
 - 🌱 I’m currently learning React......
-- Tech Stack Includes( HTML/CSS/JavaScript/Node.Js/Express.JS/
+- Tech Stack Includes
+Proficient: CSS3, HTML5, Bootstrap, React, JavaScript, Node.js,Git, Figma, Express.js, SQL, Knex, PostgreSQL
+Experienced: VsCode, AWS, Python, Selenium, Django, TablePlus, Socket.Io
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
-@AndrewKins_ Twitter
+@AndrewKins_    Twitter
 
 <!---
 AndrewKins/AndrewKins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
