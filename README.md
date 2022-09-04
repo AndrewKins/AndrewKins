@@ -8,7 +8,9 @@ Experienced: VsCode, AWS, Python, Selenium, Django, TablePlus, Socket.Io
 - 📫 How to reach me 
 -LinkedIn http://linkedin.com/in/andrew-enoe
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+https://medium.com/@andrewm.enoe/create-a-pokemon-api-using-node-express-knex-postgresql-5e5c88ae650b
+<!-- BLOG-POST-LIST:END -->
 <!---
 AndrewKins/AndrewKins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
