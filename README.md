@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>👋 Hi, I’m Andrew Enoe</h1>
+  <h1 align="center"> <b>👋 Hi, I’m Andrew Enoe <img align= "center" src="Screen Shot 2022-09-03 at 12.33.51 PM(1).png" alt="image" width="110"></h1> 
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/andrew-enoe/"><img src="https://img.shields.io/badge/LinkedIn-f12a13?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
