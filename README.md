@@ -1,16 +1,10 @@
-- 👋 Hi, I’m Andrew Enoe
-- 👀 I'm a Marcy Lab Software Engineering Fellow
-- 🌱 I’m currently working my Capstone Project in partnership with Co-Labs 
-- Tech Stack Includes
-Proficient: CSS3, HTML5, Bootstrap, React, JavaScript, Node.js,Git, Figma, Express.js, SQL, Knex, PostgreSQL
-Experienced: VsCode, AWS, Python, Selenium, Django, TablePlus, Socket.Io
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me 
--LinkedIn http://linkedin.com/in/andrew-enoe
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!---
-AndrewKins/AndrewKins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <h1 align="center"><b>👋 Hi, I’m Andrew Enoe</h1>
+</p>
+<p align="center">
+<a href="https://twitter.com/andrewKins_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+</p>
+<br />
+<p>
+<h1 align="center" >Page under construction :)</h1>
+</p>
