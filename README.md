@@ -25,5 +25,3 @@
 - 🕺🏾 Fun fact: I founded an organization called AgainstAllOddz
 
 </p>
-
-<h2 align="center"> Languages and Tools:</h2>
