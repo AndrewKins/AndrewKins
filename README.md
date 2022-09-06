@@ -14,6 +14,8 @@
 <h1> About Me</h1> 
 <p>
 
+- My Pronouns are he/him/his
+ 
 - 👀 I'm a Full Stack Software Engineer with a passion for working with mission-driven technologies!
 
 - 🌱 I’m currently upscaling my capstone project PEAK in partnership with Co-Labs
