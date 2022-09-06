@@ -11,13 +11,16 @@
 <a href="https://medium.com/@andrewm.enoe"><img src="https://img.shields.io/badge/Medium-0aaf19?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 </p>
 
-<h1> About Me</h1>
+<h1> About Me</h1> 
 <p>
-- 👀 I'm a Marcy Lab Software Engineering Fellow
 
-- 🌱 I’m currently working my Capstone Project in partnership with Co-Labs 
+- 👀 I'm a Full Stack Software Engineer with a passion for working with mission-driven technologies!
+
+- 🌱 I’m currently upscaling my capstone project PEAK in partnership with Co-Labs
 
 - 💞️ I’m looking to collaborate on Projects
+
+- 🕺🏾 Fun fact: I founded an organization called AgainstAllOddz
 
 </p>
 
