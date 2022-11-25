@@ -18,7 +18,7 @@
  
 - 👀 I'm a Full Stack Software Engineer with a passion for working with mission-driven technologies!
 
-- 🌱 I’m currently upscaling my capstone project PEAK in partnership with Co-Labs
+- 🌱 I’m currently working on my personal project. Coming Soon :)
 
 - 💞️ I’m looking to collaborate on Projects
 
