@@ -18,9 +18,9 @@
  
 - 👀 I'm a Full Stack Software Engineer with a passion for working with mission-driven technologies!
 
-- 🌱 I’m currently working on my personal project. Coming Soon :)
+- 🌱 I’m currently working on my personal project. Step! -Coming Soon :)
 
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m am open to entry level Software Engineering Roles & Apprenticeships.
 
 - 🕺🏾 Fun fact: I founded an organization called AgainstAllOddz
 
