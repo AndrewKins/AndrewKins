@@ -18,7 +18,7 @@
  
 - 👀 I'm a Full Stack Software Engineer with a passion for working with mission-driven technologies!
 
-- 🌱 I’m currently working on my personal project. StepSzn! -Coming Soon :)
+- 🌱 I’m currently working on my personal portfolio project. -Coming Soon :)
 
 - 💞️ I’m am open to entry level Software Engineering Roles & Apprenticeships.
 
