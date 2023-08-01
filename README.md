@@ -11,7 +11,7 @@
 <a href="https://medium.com/@andrewm.enoe"><img src="https://img.shields.io/badge/Medium-0aaf19?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 </p>
 
-<h1> About Me</h1> 
+<h1> About Me </h1> 
 <p>
 
 - My Pronouns are he/him/his
@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently working on my personal portfolio project. -Coming Soon :)
 
-- 💞️ I’m am open to entry level Software Engineering Roles & Apprenticeships.
+- 💞️ I am open to Software Engineering Roles & Apprenticeships.
 
-- 🕺🏾 Fun fact: I founded an organization called AgainstAllOddz
+- 🕺🏾 Fun fact: I am launching a web development business in September :)
 
 </p>
 
