@@ -22,7 +22,7 @@
 
 - 💞️ I am open to Software Engineering Roles & Apprenticeships.
 
-- 🕺🏾 Fun fact: I am launching a web development business in September :)
+- 🕺🏾 Fun fact: I am current a Computer Science Teacher.
 
 </p>
 
