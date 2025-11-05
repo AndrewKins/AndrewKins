@@ -22,8 +22,6 @@
 
 - 💞️ I am open to Software Engineering Roles & Apprenticeships.
 
-- 🕺🏾 Fun fact: I am current a Computer Science Teacher.
-
 </p>
 
 <h1> Languages & Technologies </h1>
